@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DF28F6F21B1B17C009CD6F7 /* TiposdeTransistoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF28F6E21B1B17C009CD6F7 /* TiposdeTransistoresViewController.swift */; };
+		1DF28F7121B1B2DE009CD6F7 /* MenuTransistoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF28F7021B1B2DE009CD6F7 /* MenuTransistoresViewController.swift */; };
+		1DF28F7321B1B3B7009CD6F7 /* MenudeResistenciasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF28F7221B1B3B7009CD6F7 /* MenudeResistenciasViewController.swift */; };
+		1DF28F7521B1BA18009CD6F7 /* CapacitorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF28F7421B1BA18009CD6F7 /* CapacitorViewController.swift */; };
+		AC7504FD21B864C000BE2661 /* FormulasResistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7504FC21B864C000BE2661 /* FormulasResistViewController.swift */; };
+		ACB70A81219A08B3006E3C84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB70A80219A08B3006E3C84 /* AppDelegate.swift */; };
+		ACB70A83219A08B3006E3C84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB70A82219A08B3006E3C84 /* ViewController.swift */; };
+		ACB70A86219A08B3006E3C84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACB70A84219A08B3006E3C84 /* Main.storyboard */; };
+		ACB70A88219A08B4006E3C84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACB70A87219A08B4006E3C84 /* Assets.xcassets */; };
+		ACB70A8B219A08B4006E3C84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACB70A89219A08B4006E3C84 /* LaunchScreen.storyboard */; };
+		ACC1F9F521B88AE100B37AFE /* FormulasDiodosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1F9F421B88AE100B37AFE /* FormulasDiodosViewController.swift */; };
+		ACC346C121B82E86004A8246 /* CalculadoraCapacitoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC346C021B82E86004A8246 /* CalculadoraCapacitoresViewController.swift */; };
+		ACDB0D2E21A8902D00B3E2E1 /* CalculadoraResistenciaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDB0D2D21A8902D00B3E2E1 /* CalculadoraResistenciaViewController.swift */; };
+		ACF927F821B5935800CA0740 /* TiposdeCapacitoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF927F721B5935800CA0740 /* TiposdeCapacitoresViewController.swift */; };
+		ACF927FA21B59C7600CA0740 /* MenuBocinaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF927F921B59C7600CA0740 /* MenuBocinaViewController.swift */; };
+		ACF927FC21B5A0B900CA0740 /* CircuitosIntegradosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF927FB21B5A0B900CA0740 /* CircuitosIntegradosViewController.swift */; };
+		FA09183F21B706FD00CD02A9 /* MenuInductorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA09183E21B706FD00CD02A9 /* MenuInductorViewController.swift */; };
+		FA09184121B70C7400CD02A9 /* TiposdeCIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA09184021B70C7400CD02A9 /* TiposdeCIViewController.swift */; };
+		FA09184321B70E1A00CD02A9 /* DiodoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA09184221B70E1A00CD02A9 /* DiodoViewController.swift */; };
+		FA09184521B7123200CD02A9 /* MenuTransformadorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA09184421B7123200CD02A9 /* MenuTransformadorViewController.swift */; };
+		FA09184721B7150F00CD02A9 /* MenuPotenciometroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA09184621B7150F00CD02A9 /* MenuPotenciometroViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1DF28F6E21B1B17C009CD6F7 /* TiposdeTransistoresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiposdeTransistoresViewController.swift; sourceTree = "<group>"; };
+		1DF28F7021B1B2DE009CD6F7 /* MenuTransistoresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTransistoresViewController.swift; sourceTree = "<group>"; };
+		1DF28F7221B1B3B7009CD6F7 /* MenudeResistenciasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenudeResistenciasViewController.swift; sourceTree = "<group>"; };
+		1DF28F7421B1BA18009CD6F7 /* CapacitorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapacitorViewController.swift; sourceTree = "<group>"; };
+		AC7504FC21B864C000BE2661 /* FormulasResistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormulasResistViewController.swift; sourceTree = "<group>"; };
+		ACB70A7D219A08B3006E3C84 /* pumna.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pumna.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACB70A80219A08B3006E3C84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ACB70A82219A08B3006E3C84 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		ACB70A85219A08B3006E3C84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ACB70A87219A08B4006E3C84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ACB70A8A219A08B4006E3C84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ACB70A8C219A08B4006E3C84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACC1F9F421B88AE100B37AFE /* FormulasDiodosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormulasDiodosViewController.swift; sourceTree = "<group>"; };
+		ACC346C021B82E86004A8246 /* CalculadoraCapacitoresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraCapacitoresViewController.swift; sourceTree = "<group>"; };
+		ACDB0D2D21A8902D00B3E2E1 /* CalculadoraResistenciaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraResistenciaViewController.swift; sourceTree = "<group>"; };
+		ACF927F721B5935800CA0740 /* TiposdeCapacitoresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiposdeCapacitoresViewController.swift; sourceTree = "<group>"; };
+		ACF927F921B59C7600CA0740 /* MenuBocinaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBocinaViewController.swift; sourceTree = "<group>"; };
+		ACF927FB21B5A0B900CA0740 /* CircuitosIntegradosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircuitosIntegradosViewController.swift; sourceTree = "<group>"; };
+		FA09183E21B706FD00CD02A9 /* MenuInductorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuInductorViewController.swift; sourceTree = "<group>"; };
+		FA09184021B70C7400CD02A9 /* TiposdeCIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiposdeCIViewController.swift; sourceTree = "<group>"; };
+		FA09184221B70E1A00CD02A9 /* DiodoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiodoViewController.swift; sourceTree = "<group>"; };
+		FA09184421B7123200CD02A9 /* MenuTransformadorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTransformadorViewController.swift; sourceTree = "<group>"; };
+		FA09184621B7150F00CD02A9 /* MenuPotenciometroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuPotenciometroViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ACB70A7A219A08B3006E3C84 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ACB70A74219A08B3006E3C84 = {
+			isa = PBXGroup;
+			children = (
+				FA09184621B7150F00CD02A9 /* MenuPotenciometroViewController.swift */,
+				ACF927FB21B5A0B900CA0740 /* CircuitosIntegradosViewController.swift */,
+				ACF927F921B59C7600CA0740 /* MenuBocinaViewController.swift */,
+				1DF28F7421B1BA18009CD6F7 /* CapacitorViewController.swift */,
+				1DF28F6E21B1B17C009CD6F7 /* TiposdeTransistoresViewController.swift */,
+				1DF28F7021B1B2DE009CD6F7 /* MenuTransistoresViewController.swift */,
+				1DF28F7221B1B3B7009CD6F7 /* MenudeResistenciasViewController.swift */,
+				ACB70A7F219A08B3006E3C84 /* pumna */,
+				ACB70A7E219A08B3006E3C84 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ACB70A7E219A08B3006E3C84 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ACB70A7D219A08B3006E3C84 /* pumna.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ACB70A7F219A08B3006E3C84 /* pumna */ = {
+			isa = PBXGroup;
+			children = (
+				ACB70A80219A08B3006E3C84 /* AppDelegate.swift */,
+				ACB70A82219A08B3006E3C84 /* ViewController.swift */,
+				ACB70A84219A08B3006E3C84 /* Main.storyboard */,
+				ACC1F9F421B88AE100B37AFE /* FormulasDiodosViewController.swift */,
+				AC7504FC21B864C000BE2661 /* FormulasResistViewController.swift */,
+				ACC346C021B82E86004A8246 /* CalculadoraCapacitoresViewController.swift */,
+				FA09184021B70C7400CD02A9 /* TiposdeCIViewController.swift */,
+				FA09184221B70E1A00CD02A9 /* DiodoViewController.swift */,
+				FA09184421B7123200CD02A9 /* MenuTransformadorViewController.swift */,
+				FA09183E21B706FD00CD02A9 /* MenuInductorViewController.swift */,
+				ACF927F721B5935800CA0740 /* TiposdeCapacitoresViewController.swift */,
+				ACDB0D2D21A8902D00B3E2E1 /* CalculadoraResistenciaViewController.swift */,
+				ACB70A87219A08B4006E3C84 /* Assets.xcassets */,
+				ACB70A89219A08B4006E3C84 /* LaunchScreen.storyboard */,
+				ACB70A8C219A08B4006E3C84 /* Info.plist */,
+			);
+			path = pumna;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACB70A7C219A08B3006E3C84 /* pumna */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ACB70A8F219A08B4006E3C84 /* Build configuration list for PBXNativeTarget "pumna" */;
+			buildPhases = (
+				ACB70A79219A08B3006E3C84 /* Sources */,
+				ACB70A7A219A08B3006E3C84 /* Frameworks */,
+				ACB70A7B219A08B3006E3C84 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = pumna;
+			productName = pumna;
+			productReference = ACB70A7D219A08B3006E3C84 /* pumna.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ACB70A75219A08B3006E3C84 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Guest User";
+				TargetAttributes = {
+					ACB70A7C219A08B3006E3C84 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = ACB70A78219A08B3006E3C84 /* Build configuration list for PBXProject "pumna" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ACB70A74219A08B3006E3C84;
+			productRefGroup = ACB70A7E219A08B3006E3C84 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACB70A7C219A08B3006E3C84 /* pumna */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ACB70A7B219A08B3006E3C84 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ACB70A8B219A08B4006E3C84 /* LaunchScreen.storyboard in Resources */,
+				ACB70A88219A08B4006E3C84 /* Assets.xcassets in Resources */,
+				ACB70A86219A08B3006E3C84 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ACB70A79219A08B3006E3C84 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC7504FD21B864C000BE2661 /* FormulasResistViewController.swift in Sources */,
+				1DF28F7121B1B2DE009CD6F7 /* MenuTransistoresViewController.swift in Sources */,
+				ACDB0D2E21A8902D00B3E2E1 /* CalculadoraResistenciaViewController.swift in Sources */,
+				FA09184521B7123200CD02A9 /* MenuTransformadorViewController.swift in Sources */,
+				FA09184321B70E1A00CD02A9 /* DiodoViewController.swift in Sources */,
+				FA09183F21B706FD00CD02A9 /* MenuInductorViewController.swift in Sources */,
+				ACF927FC21B5A0B900CA0740 /* CircuitosIntegradosViewController.swift in Sources */,
+				1DF28F7521B1BA18009CD6F7 /* CapacitorViewController.swift in Sources */,
+				FA09184721B7150F00CD02A9 /* MenuPotenciometroViewController.swift in Sources */,
+				ACB70A83219A08B3006E3C84 /* ViewController.swift in Sources */,
+				1DF28F6F21B1B17C009CD6F7 /* TiposdeTransistoresViewController.swift in Sources */,
+				ACB70A81219A08B3006E3C84 /* AppDelegate.swift in Sources */,
+				ACF927F821B5935800CA0740 /* TiposdeCapacitoresViewController.swift in Sources */,
+				ACF927FA21B59C7600CA0740 /* MenuBocinaViewController.swift in Sources */,
+				ACC346C121B82E86004A8246 /* CalculadoraCapacitoresViewController.swift in Sources */,
+				1DF28F7321B1B3B7009CD6F7 /* MenudeResistenciasViewController.swift in Sources */,
+				FA09184121B70C7400CD02A9 /* TiposdeCIViewController.swift in Sources */,
+				ACC1F9F521B88AE100B37AFE /* FormulasDiodosViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		ACB70A84219A08B3006E3C84 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACB70A85219A08B3006E3C84 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		ACB70A89219A08B4006E3C84 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ACB70A8A219A08B4006E3C84 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ACB70A8D219A08B4006E3C84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ACB70A8E219A08B4006E3C84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ACB70A90219A08B4006E3C84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BBP2SY6AFY;
+				INFOPLIST_FILE = pumna/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = www.pumna;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		ACB70A91219A08B4006E3C84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BBP2SY6AFY;
+				INFOPLIST_FILE = pumna/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = www.pumna;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ACB70A78219A08B3006E3C84 /* Build configuration list for PBXProject "pumna" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACB70A8D219A08B4006E3C84 /* Debug */,
+				ACB70A8E219A08B4006E3C84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ACB70A8F219A08B4006E3C84 /* Build configuration list for PBXNativeTarget "pumna" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ACB70A90219A08B4006E3C84 /* Debug */,
+				ACB70A91219A08B4006E3C84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ACB70A75219A08B3006E3C84 /* Project object */;
+}
